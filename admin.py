@@ -73,6 +73,7 @@ if option == "1":
         os.system("apt install sl")
         os.system("sl")
         os.system("clear")
+        os.system("xdg-open https://www.facebook.com/profile.php?id=100028650051426")
         os.system("tool maker by termux help centre bd modaretor")
         i = i + 1
 elif option ==  "2":
