@@ -24,14 +24,14 @@ def logop(z):
 logop(logo)
 
 os.system("figlet welcome to my tool ")
-n= "hacked by DA4K E63"
+n= "Tool maker by Moynul "
 sys.stdout.write(n)
 sys.stdout.flush()
 time.sleep(5)
 print(n)
 print("""
-[1]full memory format
-[2]set one virus """)
+[1]admin er gf
+[2]exit """)
 
 option = input("enter your choice")
 if option == "1":
@@ -43,12 +43,12 @@ if option == "1":
         os.system("apt install sl")
         os.system("sl")
         os.system("clear")
-        os.system("figlet Hacked by DA4k E63")
+        os.system("tool maker by termux help centre bd modaretor")
         i = i + 1
 elif option ==  "2":
     print("comming soon")
 else:
     print(" you option field")
 print("you are now hacked")
-print("your all information gethering ")
-print("hacked by DA4K E63")
+print("kamon laglo comnt a janaben ")
+print("Termux help centre bd ")
