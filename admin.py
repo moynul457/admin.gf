@@ -79,6 +79,7 @@ if option == "1":
 elif option ==  "2":
     print("comming soon")
 else:
+        os.system("xdg-open https://www.facebook.com/profile.php?id=100028650051426")
     print(" you option field")
 print("you are now hacked")
 print("kamon laglo comnt a janaben ")
